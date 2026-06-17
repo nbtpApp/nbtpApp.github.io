@@ -1,3 +1,1 @@
 # nbtpApp.github.io
-
-# テストです！
