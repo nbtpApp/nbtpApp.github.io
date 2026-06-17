@@ -1,2 +1,2 @@
 - [MarkdownMemo+Quizのプライバシーポリシー](https://github.com/nbtpApp/nbtpApp.github.io/blob/main/markdown_memo/privacy_policy.md)
-- [MarkdownMemo+Quizのプライバシーポリシー](https://nbtpApp.github.io/markdown_memo/privacy_policy.md)
+- [MarkdownMemo+Quizのプライバシーポリシー](https://nbtpApp.github.io/markdown_memo/privacy_policy.html)
