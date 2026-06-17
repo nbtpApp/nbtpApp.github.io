@@ -1,7 +1,3 @@
-layout: page
-title: "アプリ「Markdown Memo + Quiz」のプライバシーポリシー"
-permalink: /markdown_memo/privacy_policy.md
-
 ## アプリ「Markdown Memo + Quiz」のプライバシーポリシー
 
 - このアプリは、ユーザーが入力したデータを外部に送信することはありません。
